@@ -4343,7 +4343,7 @@
     "so_cau_hoi": 69,
     "trang_thai": "du",
     "do_phu": 1.0,
-    "so_lan_cao": 20,
+    "so_lan_cao": 21,
     "danh_sach_cau_hoi": [
       {
         "cau_hoi": "Đối với tín hiệu thuê bao của tổng đài điện thoại hành chính ZXJ10 khi làm việc song tần thì phạm vi mức điện đơn tần tiếp nhận là bao nhiêu?",
@@ -4367,7 +4367,7 @@
         "cac_dap_an_dung": [
           "Sáu tháng 1 lần"
         ],
-        "so_lan_thay": 13
+        "so_lan_thay": 14
       },
       {
         "cau_hoi": "Dải điện áp tiêu chuẩn của đơn nguyên phân phối nguồn một chiều trên tổng đài MDS3400 là bao nhiêu",
@@ -4375,7 +4375,7 @@
         "cac_dap_an_dung": [
           "-40VDC ~ -57VDC"
         ],
-        "so_lan_thay": 17
+        "so_lan_thay": 18
       },
       {
         "cau_hoi": "Thời gian định kỳ đo kiểm tra điện trở tiếp đất, đo cắt lọc sét. Ghi chép vào biểu theo dõi đo dây đất và thiết bị chống sét đối với thiết bị truyền dẫn.",
@@ -4383,7 +4383,7 @@
         "cac_dap_an_dung": [
           "Mỗi năm 2 lần"
         ],
-        "so_lan_thay": 13
+        "so_lan_thay": 14
       },
       {
         "cau_hoi": "Tổng đài DZY-I có mức điện đầu ra nói là bao nhiêu",
@@ -4391,7 +4391,7 @@
         "cac_dap_an_dung": [
           "Tổng đài ở trạng thái nói, khi tần số bắt đầu là 800 Hz, mức điện tín hiệu là - 35dB, có mức điện đầu ra ở dây ngoài là 5 ± 2 dB."
         ],
-        "so_lan_thay": 12
+        "so_lan_thay": 13
       },
       {
         "cau_hoi": "Chức năng chính của bảng điều khiển chính MPU trên tổng đài điều độ số MDS3400 là:",
@@ -4407,7 +4407,7 @@
         "cac_dap_an_dung": [
           "Hàng tháng"
         ],
-        "so_lan_thay": 10
+        "so_lan_thay": 11
       },
       {
         "cau_hoi": "Thời gian định kỳ đo kiểm tra công suất quang, lỗi bít thiết bị truyền dẫn trên thiết bị truyền dẫn ZXMP-S200",
@@ -4415,7 +4415,7 @@
         "cac_dap_an_dung": [
           "Sáu tháng 1 lần"
         ],
-        "so_lan_thay": 14
+        "so_lan_thay": 15
       },
       {
         "cau_hoi": "Tổng đài DZY-I có độ phòng vệ tạp âm:",
@@ -4423,7 +4423,7 @@
         "cac_dap_an_dung": [
           "không thấp hơn 52 dB."
         ],
-        "so_lan_thay": 15
+        "so_lan_thay": 16
       },
       {
         "cau_hoi": "Máy chủ hệ thống điều độ số MDS3400 cấu tạo bao gồm:",
@@ -4447,7 +4447,7 @@
         "cac_dap_an_dung": [
           "Card ASIG"
         ],
-        "so_lan_thay": 14
+        "so_lan_thay": 15
       },
       {
         "cau_hoi": "Công suất tín hiệu phát ra loa tổng đài YDIII-2 là bao nhiêu",
@@ -4455,7 +4455,7 @@
         "cac_dap_an_dung": [
           "50 đến 450 mW"
         ],
-        "so_lan_thay": 17
+        "so_lan_thay": 18
       },
       {
         "cau_hoi": "Chức năng của card trung kế số trên tổng đài điện thoại hành chính ZXJ10 bao gồm:",
@@ -4463,7 +4463,7 @@
         "cac_dap_an_dung": [
           "Biến đổi kiểu mã, nhận đồng hồ đồng bộ khung, đồng bộ khung và đồng bộ đa khung, chèn và lấy tín lệnh, cảnh báo kiểm tra, thực hiện chức năng ISDN, trực tiếp thực hiện chuyển mạch thông tin với MP qua liên kết bán cố định của mạng T."
         ],
-        "so_lan_thay": 7
+        "so_lan_thay": 8
       },
       {
         "cau_hoi": "Thời gian định kỳ kiểm tra độ vững chắc về cơ khí của các bảng mạch, ốc vít, dây nối trên thiết bị truyền dẫn S200.",
@@ -4471,7 +4471,7 @@
         "cac_dap_an_dung": [
           "Hàng ngày"
         ],
-        "so_lan_thay": 9
+        "so_lan_thay": 10
       },
       {
         "cau_hoi": "Card máy xử lý đơn nguyên thuê bao SP trên tổng đài điện thoại hành chính ZXJ10 gồm các đèn biểu thị sau",
@@ -4479,7 +4479,7 @@
         "cac_dap_an_dung": [
           "RUN, FAU, MST, RES"
         ],
-        "so_lan_thay": 9
+        "so_lan_thay": 10
       },
       {
         "cau_hoi": "Tổng đài điện thoại hành chính ZXJ10 gồm những card chức năng gì?",
@@ -4487,7 +4487,7 @@
         "cac_dap_an_dung": [
           "Bộ xử lý chủ MP, SMEM, COMM, PEPD, MON, TNET, ASIG, DTI, MTT, SP."
         ],
-        "so_lan_thay": 12
+        "so_lan_thay": 13
       },
       {
         "cau_hoi": "Khi được cấu hình kết nối 2Mbps nhưng kênh báo hiệu không bình thường thì đèn DT tương ứng trên Card trung kế số ODT thiết bị truy nhập ZXA10-T600 biểu thị như thế nào",
@@ -4503,7 +4503,7 @@
         "cac_dap_an_dung": [
           "Bản mạch ODT"
         ],
-        "so_lan_thay": 11
+        "so_lan_thay": 12
       },
       {
         "cau_hoi": "Card SSUB trên thiết bị truy nhập ZXA10-T600 cung cấp giao diện nào sau đây?",
@@ -4511,7 +4511,7 @@
         "cac_dap_an_dung": [
           "Ethernet RJ45 10M/100M"
         ],
-        "so_lan_thay": 14
+        "so_lan_thay": 15
       },
       {
         "cau_hoi": "Chức năng của card máy xử lý đơn nguyên thuê bao SP trên tổng đài điện thoại hành chính ZXJ10 bao gồm:",
@@ -4519,7 +4519,7 @@
         "cac_dap_an_dung": [
           "Thực hiện chức năng tập trung và truyền phát tín lệnh đường dây thuê bao, cung cấp hai dây HW 8Mb/s hai chiều cho đường thoại sử dụng, bảo lưu 4 dây HW 2Mb/s, có thể thực hiện liên kết đường thoại bên trong đơn nguyên thuê bao, có chức năng lưu trữ nóng."
         ],
-        "so_lan_thay": 12
+        "so_lan_thay": 13
       },
       {
         "cau_hoi": "Khi được cấu hình kết nối 2Mbps và kênh báo hiệu hoạt động bình thường thì đèn DT tương ứng trên Card trung kế số ODT thiết bị truy nhập ZXA10-T600 biểu thị như thế nào",
@@ -4527,7 +4527,7 @@
         "cac_dap_an_dung": [
           "Sáng xanh có nháy"
         ],
-        "so_lan_thay": 14
+        "so_lan_thay": 15
       },
       {
         "cau_hoi": "Cuộn cảm L2 ngăn đo thử trực ban có bao nhiêu vòng",
@@ -4535,7 +4535,7 @@
         "cac_dap_an_dung": [
           "1200 vòng"
         ],
-        "so_lan_thay": 15
+        "so_lan_thay": 16
       },
       {
         "cau_hoi": "Dòng tiêu thụ lớn nhất khi phân cơ đổ chuông là bao nhiêu mA",
@@ -4543,7 +4543,7 @@
         "cac_dap_an_dung": [
           "100mA."
         ],
-        "so_lan_thay": 14
+        "so_lan_thay": 15
       },
       {
         "cau_hoi": "Cuộn dây phía ống nói 1-2 ngăn đo thử trực ban có bao nhiêu vòng",
@@ -4559,7 +4559,7 @@
         "cac_dap_an_dung": [
           "Q3"
         ],
-        "so_lan_thay": 8
+        "so_lan_thay": 9
       },
       {
         "cau_hoi": "Card trung kế số ODT trên thiết bị truy nhập ZXA10-T600 gồm các đèn biểu thị sau",
@@ -4591,7 +4591,7 @@
         "cac_dap_an_dung": [
           "1,4±0,2V."
         ],
-        "so_lan_thay": 16
+        "so_lan_thay": 17
       },
       {
         "cau_hoi": "Trong thiết bị truyền dẫn ZXMP-S200 đèn biểu thị cảnh bảo của NCP MAJ/MIN sáng màu vàng khi nào?",
@@ -4599,7 +4599,7 @@
         "cac_dap_an_dung": [
           "Khi có cảnh báo quan trọng."
         ],
-        "so_lan_thay": 12
+        "so_lan_thay": 13
       },
       {
         "cau_hoi": "Điện trở mạch vòng thuê bao của đường dây thuê bao của tổng đài điện thoại hành chính ZXJ10 là bao nhiêu?",
@@ -4607,7 +4607,7 @@
         "cac_dap_an_dung": [
           "< 2000W"
         ],
-        "so_lan_thay": 13
+        "so_lan_thay": 14
       },
       {
         "cau_hoi": "Bản mạch phân nhánh điện E1/T1 của thiết bị truyền dẫn ZXMP-S200 có thể xử lý tín hiệu của bao nhiêu kênh E1 hoặc T1?",
@@ -4639,7 +4639,7 @@
         "cac_dap_an_dung": [
           "4"
         ],
-        "so_lan_thay": 16
+        "so_lan_thay": 17
       },
       {
         "cau_hoi": "Lớp quản lý mạng NML của hệ thống quản lý mạng truyền dẫn có những chức năng chính nào?",
@@ -4655,7 +4655,7 @@
         "cac_dap_an_dung": [
           "0,5s đến 1,1s."
         ],
-        "so_lan_thay": 18
+        "so_lan_thay": 19
       },
       {
         "cau_hoi": "Bảng điều khiển chính nhánh của tổng đài điện thoại tập trung trong ga FH98 là gì?",
@@ -4663,7 +4663,7 @@
         "cac_dap_an_dung": [
           "Là trung tâm điều khiển của hệ thống trạm, thực hiện chuyển mạch mạng 512x512. Nó là trung tâm chuyển đổi của kênh tiếng nói kỹ thuật số, sự nối tiếp của các cuộc gọi được tiến hành trên đó."
         ],
-        "so_lan_thay": 15
+        "so_lan_thay": 16
       },
       {
         "cau_hoi": "Card điều khiển SSUB trên thiết bị truy nhập ZXA10-T600 gồm các đèn biểu thị sau",
@@ -4671,7 +4671,7 @@
         "cac_dap_an_dung": [
           "RUN, ALM, ACT, SYN"
         ],
-        "so_lan_thay": 15
+        "so_lan_thay": 16
       },
       {
         "cau_hoi": "Thiết bị 1660 SM là thiết bị sử dụng trên luồng ?",
@@ -4679,7 +4679,7 @@
         "cac_dap_an_dung": [
           "Cả 3 đáp án trên."
         ],
-        "so_lan_thay": 11
+        "so_lan_thay": 12
       },
       {
         "cau_hoi": "Thời gian thực hiện định kỳ kiểm tra bảo dưỡng theo dõi môi trường làm việc trên thiết bị truy nhập ZXA10-T600",
@@ -4687,7 +4687,7 @@
         "cac_dap_an_dung": [
           "Hàng ngày"
         ],
-        "so_lan_thay": 16
+        "so_lan_thay": 17
       },
       {
         "cau_hoi": "Thời gian định kỳ kiểm tra dây cáp phối, dây phối và các mối hàn, xử lý các sai sót, thay thế các hư hỏng trên thiết bị truyền dẫn ZXMP-S200.",
@@ -4711,7 +4711,7 @@
         "cac_dap_an_dung": [
           "RUN, FAU, MST, RES, CLK, SELEN, REFI"
         ],
-        "so_lan_thay": 9
+        "so_lan_thay": 10
       },
       {
         "cau_hoi": "Đối với tín hiệu thuê bao của tổng đài điện thoại hành chính ZXJ10 thì chênh lệch mức điện song tần là bao nhiêu?",
@@ -4751,7 +4751,7 @@
         "cac_dap_an_dung": [
           "75V AC"
         ],
-        "so_lan_thay": 20
+        "so_lan_thay": 21
       },
       {
         "cau_hoi": "Điện áp đo được tại đầu ra thuê bao của Card đường dây ALC khi đang gọi chuông là bao nhiêu",
@@ -4767,7 +4767,7 @@
         "cac_dap_an_dung": [
           "Hàng ngày"
         ],
-        "so_lan_thay": 16
+        "so_lan_thay": 17
       },
       {
         "cau_hoi": "Card nguồn trên thiết bị truy nhập ZXA10-U300 khung máy MBSL được lắp đặt ở khe cắm nào sau đây?",
@@ -4783,7 +4783,7 @@
         "cac_dap_an_dung": [
           "3"
         ],
-        "so_lan_thay": 17
+        "so_lan_thay": 18
       },
       {
         "cau_hoi": "Card nguồn trên thiết bị truy nhập ZXA10-U300 khung máy MBSL thuộc loại nào sau đây?",
@@ -4791,7 +4791,7 @@
         "cac_dap_an_dung": [
           "Power K"
         ],
-        "so_lan_thay": 18
+        "so_lan_thay": 19
       },
       {
         "cau_hoi": "Bảng mạch GIS trên thiết bị truy nhập ZXA10-U300 cung cấp bao nhiêu cổng Gigabit Ethernet (GE) để đáp ứng yêu cầu băng rộng.",
@@ -4799,7 +4799,7 @@
         "cac_dap_an_dung": [
           "24"
         ],
-        "so_lan_thay": 18
+        "so_lan_thay": 19
       },
       {
         "cau_hoi": "Card đường dây ALC trên thiết bị truy nhập ZXA10-U300 khung máy MBSL được lắp đặt ở khe cắm nào sau đây?",
@@ -4807,7 +4807,7 @@
         "cac_dap_an_dung": [
           "Khe cắm 3-8 và khe cắm 11-16"
         ],
-        "so_lan_thay": 18
+        "so_lan_thay": 19
       },
       {
         "cau_hoi": "Khi hoạt động bình thường Card nguồn trên thiết bị truy nhập ZXA10-T600 khung máy MTBC sáng các đèn biểu thị",
@@ -4815,7 +4815,7 @@
         "cac_dap_an_dung": [
           "-48V, RING, +5V, +5VJ, -5V"
         ],
-        "so_lan_thay": 16
+        "so_lan_thay": 17
       },
       {
         "cau_hoi": "Bảng mạch GIS trên thiết bị truy nhập ZXA10-U300 cung cấp bao nhiêu cổng Ethernet kết nối đến hệ thống quản lý mạng",
@@ -4823,7 +4823,7 @@
         "cac_dap_an_dung": [
           "1"
         ],
-        "so_lan_thay": 16
+        "so_lan_thay": 17
       },
       {
         "cau_hoi": "Bảng mạch IEBA trên thiết bị truy nhập ZXA10-U300 cung cấp đầu nối cáp E1 bao nhiêu chân",
@@ -4831,7 +4831,7 @@
         "cac_dap_an_dung": [
           "64"
         ],
-        "so_lan_thay": 13
+        "so_lan_thay": 14
       },
       {
         "cau_hoi": "Card nào trên thiết bị truy nhập ZXA10-U300 có chức năng giám sát môi trường?",
@@ -4839,7 +4839,7 @@
         "cac_dap_an_dung": [
           "EPC"
         ],
-        "so_lan_thay": 15
+        "so_lan_thay": 16
       },
       {
         "cau_hoi": "Bảng mạch IEBA trên thiết bị truy nhập ZXA10-U300 cung cấp bao nhiêu giao diện RJ-45 cho giám sát điều khiển",
@@ -4847,7 +4847,7 @@
         "cac_dap_an_dung": [
           "2"
         ],
-        "so_lan_thay": 16
+        "so_lan_thay": 17
       },
       {
         "cau_hoi": "Bảng mạch GIS trên thiết bị truy nhập ZXA10-U300 có bao nhiêu đèn LED phía mặt trước",
@@ -4863,7 +4863,7 @@
         "cac_dap_an_dung": [
           "32"
         ],
-        "so_lan_thay": 17
+        "so_lan_thay": 18
       },
       {
         "cau_hoi": "Card đường dây ALC trên thiết bị truy nhập ZXA10-U300 gồm các đèn biểu thị sau",
@@ -4871,7 +4871,7 @@
         "cac_dap_an_dung": [
           "RUN, ALM, HOOK"
         ],
-        "so_lan_thay": 18
+        "so_lan_thay": 19
       },
       {
         "cau_hoi": "Điện áp đo được tại đầu ra thuê bao của Card đường dây ALC khi không có cuộc gọi là bao nhiêu",
@@ -4879,7 +4879,7 @@
         "cac_dap_an_dung": [
           "48VDC"
         ],
-        "so_lan_thay": 16
+        "so_lan_thay": 17
       },
       {
         "cau_hoi": "Card đường dây ALC trên thiết bị truy nhập ZXA10-U300 thuộc loại nào sau đây?",
@@ -4887,7 +4887,7 @@
         "cac_dap_an_dung": [
           "Analog"
         ],
-        "so_lan_thay": 19
+        "so_lan_thay": 20
       },
       {
         "cau_hoi": ": Thời gian thực hiện định kỳ kiểm tra, giám sát các đặc tính lỗi, các phần tử mạng, giám sát cảnh báo trên thiết bị truy nhập ZXA10-T600",
